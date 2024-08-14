@@ -1,0 +1,1 @@
+image_angle = o_player.image_angle;

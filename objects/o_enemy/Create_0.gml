@@ -1,0 +1,12 @@
+spd = 0;
+colorVal = c_white;
+sight = 15;
+laneNum = 0;
+totalLanes = 0;
+swapping = false;
+target = -1;
+stop = false;
+flying = false;
+dir = choose(-1, 1);
+counter = 0;
+targetAngle = 0;
